@@ -1,2 +1,2 @@
 # jillion-cloud-component
-A Java common component project for Jillon Cloud.
+A Java common component project for Jillion Cloud.
